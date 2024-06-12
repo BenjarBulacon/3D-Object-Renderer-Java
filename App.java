@@ -8,13 +8,4 @@ public class App {
         new Window();
         
     }
-
-    
-    
-
-
-
-
-
-
 }
